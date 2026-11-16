@@ -43,3 +43,15 @@ The dashboard helps users identify important business insights and make data-dri
 - Veg vs Non-Veg sales comparison
 - Quarterly sales and order analysis
 - Dynamic filtering using Excel Slicers
+## 📁 Project Files
+
+| File Name | Description |
+|---|---|
+| Swigy_sales_analysis.xlsx | Excel dashboard and sales analysis |
+| Swiggy_Dashboard.png | Dashboard preview image |
+| README.md | Project documentation |
+## 📝 Conclusion
+
+This project helped me improve my practical skills in Microsoft Excel, data cleaning, data analysis, and dashboard creation.
+
+It demonstrates how raw sales data can be transformed into meaningful business insights using an interactive dashboard.
