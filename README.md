@@ -23,3 +23,12 @@ The dashboard helps users identify important business insights and make data-dri
 - The dashboard compares Veg and Non-Veg sales.
 - Monthly and daily sales trends help identify sales patterns.
 - Quarterly analysis provides insights into sales, ratings, and orders.
+## 🛠️ Tools & Technologies Used
+
+- Microsoft Excel
+- Pivot Tables
+- Excel Formulas
+- Data Cleaning
+- Data Visualization
+- Interactive Dashboard
+- Slicers and Charts
