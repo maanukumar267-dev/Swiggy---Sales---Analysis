@@ -50,6 +50,9 @@ The dashboard helps users identify important business insights and make data-dri
 | Swigy_sales_analysis.xlsx | Excel dashboard and sales analysis |
 | Swiggy_Dashboard.png | Dashboard preview image |
 | README.md | Project documentation |
+### 📥 Download Project
+
+[Download Excel Dashboard](./Swigy_sales_analysis.xlsx)
 ## 📝 Conclusion
 
 This project helped me improve my practical skills in Microsoft Excel, data cleaning, data analysis, and dashboard creation.
