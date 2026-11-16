@@ -32,3 +32,14 @@ The dashboard helps users identify important business insights and make data-dri
 - Data Visualization
 - Interactive Dashboard
 - Slicers and Charts
+## ⭐ Project Features
+
+- Interactive Excel Dashboard
+- KPI Cards for sales performance
+- State-wise sales analysis
+- Monthly and daily sales trends
+- Top 5 city sales comparison
+- Top 10 restaurant analysis
+- Veg vs Non-Veg sales comparison
+- Quarterly sales and order analysis
+- Dynamic filtering using Excel Slicers
